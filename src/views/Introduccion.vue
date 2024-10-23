@@ -4,10 +4,22 @@
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
   
     .titulo-principal.color-acento-contenido
-      .titulo-principal__numero
+      .titulo-principal__numero.text-white
         span
           i.fas.fa-info
       h1 Introducción
+    
+    p.mb-4 A continuación, podrá consultar el video en el que se presenta la introducción al curso “Asesoría comercial”.
+
+    .row.justify-content-center.align-items-center.mb-5
+      .col-sm-12.col-md-12.col-lg-10
+        figure
+          .video
+            iframe(iframe width="560" height="315" src="https://www.youtube.com/embed/lLRBpn0BWm8?si=L3prPu1BTaOKW8Ao" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
+
+
+
+
     
 </template>
 
