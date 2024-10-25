@@ -53,6 +53,12 @@
 .img90
   width: 90px  !important
 
+.img95
+  width: 95px  !important
+
+.img95
+  width: 100px  !important
+
 .img250
   width: 250px !important
 
@@ -68,11 +74,72 @@
 .bgazulclaro
   background-color: #75BAF1
 
+.bgrosado
+  background-color: #E2D8F4
+
+.bgrosado2
+  background-color: #E9E2F7
+
+.bgmoradoclaro
+  background-color: #CCBBEB
+
+.bgblanco
+  background-color: white
+
+.bgmoradomedio
+  background-color: #BE79CA
+
 .bgpcmorada
   background: url('../assets/curso/temas/tema1/fondo2.png')
   background-size: 100% 100%
   background-repeat: no-repeat
   background-position: cover
+
+.bgfondotema2
+  background: url('../assets/curso/temas/tema2/fondo1.png')
+  background-size: 100% 100%
+  background-repeat: no-repeat
+  background-position: cover
+
+.borde-redondo
+  border-radius: 20px
+
+.borde-redondo-abajo
+  border-bottom-left-radius: 20px
+  border-bottom-right-radius: 20px
+
+.borde-redondo-arriba
+  border-top-left-radius: 20px
+  border-top-right-radius: 20px
+
+.fondotema3
+  background: url('../assets/curso/temas/tema3/fondo1.png')
+  background-size: 101%
+  background-repeat: no-repeat
+  background-position: bottom
+  margin-inline: -3.4rem
+  @media screen and (max-width: 992px)
+    margin-inline: -1.4rem
+
+// viñetas
+
+.fa-ol
+  margin-left: 0 !important
+  li
+    display: flex !important
+    &:before
+      position: relative
+      margin-right: 20px
+      font-size: 1.4rem
+
+.fa-al
+  margin-left: 0 !important
+  li
+    display: flex !important
+    &:before
+      position: relative
+      margin-right: 19px
+      font-size: 1.4rem
 
 //tema 1
 
@@ -140,8 +207,28 @@
   @media (max-width: 576px)
     margin-left: 0px
 
+.sobavatar2
+  margin-right: -10% 
+  z-index: 9999
+  @media (max-width: 576px)
+    margin-left: 0px
+
 .moverderecha1
   margin-left: 20% 
 
+.moverderecha2
+  margin-left: 8% 
+
+.moverderecha3
+  margin-left: 50% 
+
+.moverizquierda1
+  margin-right: -3% 
+
 .bgavatarazulclaro
   background-color: #D5EAFB
+
+// parametros pasos tema3
+
+.pasos-a.color-acento-contenido .pasos-a__circle div
+  color: white  !important
