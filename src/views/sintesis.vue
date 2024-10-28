@@ -7,7 +7,7 @@
     .row.justify-content-center
       .col-lg-10.mb-5
         figure
-          img(src="@/assets/curso/temas/sintesis.png", alt="alt")
+          img(src="@/assets/curso/temas/sintesis.png", alt="En el diagrama se presentan las características del servicio al cliente relacionadas con el cliente, como la atención, las relaciones, la satisfacción y la fidelización; también se presentan las características relacionadas con el servicio como el ciclo, el triangulo, los momentos de verdad y la trazabilidad.")
       .col-auto
         a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
           .anexo__icono

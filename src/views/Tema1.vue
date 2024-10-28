@@ -110,7 +110,7 @@
       .col-lg-6
         .titulo-sexto.color-secundario.mb-4
           h5 Figura 1. 
-          | Figura 1. Estructura organizacional tradicional vs. orientada al mercado
+          | Estructura organizacional tradicional vs. orientada al mercado
         img(src='@/assets/curso/temas/tema1/fig1.png', alt='La figura presenta dos pirámides, en la primera la base es el cliente, seguido de los empleados de servicio al cliente, la gerencia media, y en la punta superior se encuentra el CEO. La segunda pirámide está invertida y en la punta, en la parte de abajo, se encuentra el CEO, seguido de la gerencia media, luego los empleados de servicio al cliente y por Ultimo y más grande los clientes.')
         figcaption.text-center Nota. Adaptada de Albrecht (2006).
 
@@ -150,16 +150,12 @@
       .col-sm-12.col-md-12.col-lg-9
         TabsA.color-acento-botones
           .tarjeta.color-secundario--borde.p-4(titulo="Son intangibles")
-            h5.p-4 Son intangibles
             p.ps-4 El vendedor actúa de manera mecánica, no permite la flexibilidad ni el manejo de la presentación.
           .tarjeta.color-secundario--borde.p-4(titulo="Son indivisibles")
-            h5.p-4 Son indivisibles
             p.ps-4 Son los servicios que se le prestan a todos por igual, independientemente de lo que haya pagado.
           .tarjeta.color-secundario--borde.p-4(titulo="Son heterogéneos")
-            h5.p-4 Son heterogéneos
             p.ps-4 Estos servicios son muy diversos y variados, raramente coinciden entre sí y usualmente se prestan muchas veces con relación al cliente.
           .tarjeta.color-secundario--borde.p-4(titulo="Son heterogéneos")
-            h5.p-4 No se pueden conservar
             p.ps-4 Estos servicios no se pueden almacenar, ni llevarlos por partes, todos deben consumirse.
       .col-8.col-md-7.col-lg-3
         img.mt-2(src='@/assets/curso/temas/tema1/img4.png', alt='')

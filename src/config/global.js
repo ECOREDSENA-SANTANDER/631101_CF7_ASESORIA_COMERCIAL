@@ -301,7 +301,7 @@ export default {
     {
       referencia:
         'Cámara de Comercio de Cartagena. (2014). Procedimiento atención de PQRS.',
-      link: 'https://www.cccartagena.org.co/pqrs-2/',
+      link: 'https://www.cccartagena.org.co/pqrsd',
     },
     {
       referencia:
@@ -319,17 +319,12 @@ export default {
       referencia:
         'ISOTools. (2016). Cómo definir un proceso para gestionar las reclamaciones de los clientes.',
       link:
-        'https://www.isotools.com.co/definir-proceso-gestionar-las-reclamaciones-los-clientes/',
+        'https://co.isotools.us/definir-proceso-gestionar-las-reclamaciones-los-clientes/',
     },
     {
       referencia:
         'Prieto, J. (2014). Gerencia del servicio. 3ª edición. Ecoe Ediciones. ',
       link: '',
-    },
-    {
-      referencia:
-        'Serna, H., Barrios, C., Barrios, A. y Castillo, M. (2007). ¿Cómo medir el valor del cliente?. Editorial 3R Editores.',
-      link: 'https://isbn.cloud/9789583036422/como-medir-el-valor-del-cliente/',
     },
     {
       referencia:
