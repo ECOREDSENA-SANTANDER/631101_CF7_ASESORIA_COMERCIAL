@@ -55,29 +55,11 @@
           .tarjeta.bgpcmorada.text-white.p-3(x="90%" y="56%" numero="12")
             p.mt-4 #[b Club de clientes.] Grupos que la empresa organiza, por ejemplo, el club de la pintura reúne a todos los interesados en pintar, reciben cursos y promociones.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </template>
 
 <script>
 export default {
-  name: 'Tema3',
+  name: 'Tema4',
   data: () => ({
     // variables de vue
   }),

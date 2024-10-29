@@ -108,21 +108,11 @@
             img.mt-2(src='@/assets/curso/temas/tema4y5/ico1-6.png' alt='AvatarTop').img95
             p.text-center.mt-4.mb-4(data-aos="fade-right") Evaluar la eficacia de las medidas adoptadas para su gestión.
 
-
-
-
-
-
-
-
-
-
-
 </template>
 
 <script>
 export default {
-  name: 'Tema3',
+  name: 'Tema5',
   data: () => ({
     // variables de vue
   }),

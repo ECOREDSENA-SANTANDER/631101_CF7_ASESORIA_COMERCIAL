@@ -128,13 +128,11 @@
             h5.mt-4.mb-4 Momentos de verdad negativos: 
             p.mt-4 Aquellos momentos que no satisfacen las expectativas de los clientes en su encuentro con el sistema. Los empleados pueden atenderlos muy bien, pero pueden sentirse contrariados con alguna parte del servicio técnico o con la exhibición u otro elemento. 
 
-
-
 </template>
 
 <script>
 export default {
-  name: 'Tema3',
+  name: 'Tema8',
   data: () => ({
     // variables de vue
   }),

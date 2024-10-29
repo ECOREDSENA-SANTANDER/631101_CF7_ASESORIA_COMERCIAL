@@ -182,17 +182,11 @@
             .col-md-4
               img(src='@/assets/curso/temas/tema6y7/lt1-3.png', alt='Texto que describa la imagen')
 
-
-
-
-
-
-
 </template>
 
 <script>
 export default {
-  name: 'Tema3',
+  name: 'Tema6',
   data: () => ({
     // variables de vue
   }),

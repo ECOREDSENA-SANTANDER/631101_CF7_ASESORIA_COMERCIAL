@@ -60,21 +60,11 @@
           img(src='@/assets/curso/temas/tema6y7/fig2.png', alt='La figura presenta un circulo con la palabra clientes en el medio, y tres recuadros alrededor donde se lee: sistemas amables para el cliente, estrategia de servicio y personal de contacto.')
         figcaption.mt-4 Nota. Adaptada de Albrecht (2006).
 
-
-
-
-
-
-
-
-
-
-
 </template>
 
 <script>
 export default {
-  name: 'Tema3',
+  name: 'Tema7',
   data: () => ({
     // variables de vue
   }),
