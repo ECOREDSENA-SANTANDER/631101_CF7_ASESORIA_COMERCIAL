@@ -9,9 +9,9 @@
 
     .row.justify-content-center.align-items-center
       .col-sm-12.col-md-8.col-lg-4.p-0
-        img.p-0(src='@/assets/curso/temas/tema8y9/img1.png', alt='')
+        img.p-0(src='@/assets/curso/temas/tema8y9/img1.png', alt='')(data-aos="fade-right")
       .col-sm-12.col-md-12.col-lg-6
-        .row.bgazulclaro.p-0
+        .row.bgazulclaro.p-0(data-aos="fade-left")
           p.p-4.mt-5.mb-5 Cada vez que el cliente en su encuentro con la empresa bien sea de manera presencial o virtual experimenta sensaciones que pueden o no llevarlo a realizar una compra. Para Albrecht (2006) “es un episodio en el cual el cliente entra en contacto con cualquier aspecto de la organización y tiene una impresión sobre la calidad de su servicio” (p. 33).  Igualmente, Siebold (s.f.) trae un concepto de Jan Carlzon “un momento de verdad es cada instante en que un cliente toma contacto con la persona o sistema que da el servicio”.
       
     separador
@@ -20,7 +20,7 @@
 
     p.mb-4 Están caracterizados por los sistemas principales de la organización, estos sistemas son:
 
-    .row.justify-content-center.align-items-center
+    .row.justify-content-center.align-items-center(data-aos="zoom-in")
       .col-lg-12
         .tarjeta.tarjeta--morada
           SlyderA(tipo="b").p-4
@@ -48,7 +48,7 @@
   .container.tarjeta.tarjeta--moradaadv
     .row.align-items-center.justify-content-center.mb-1.mt-1
       .col-2
-        img.p-4(src='@/assets/curso/temas/tema8y9/adv.png', alt='')
+        img.p-4(data-aos="zoom-in-right")(src='@/assets/curso/temas/tema8y9/adv.png', alt='')
       .col-10
         h3.text-white Importancia
         p.text-white Los momentos de verdad son aquellos puntos de contacto entre el cliente y la empresa más importantes y críticos. Son cruciales para la experiencia del cliente, puesto que definen que el cliente llegue a la venta y la fidelización.
@@ -107,23 +107,23 @@
     #t_8_3.titulo-segundo.mb-4
       h2 8.3 Tipos de momentos de verdad
 
-    p.mb-4 Los encuentros con los clientes pueden ser positivos o negativos, dependiendo de cómo se sienta el cliente o cómo perciba el servicio recibido o cualquier encuentro con el sistema. Prieto (2014, p.104). 
+    p.mb-4(data-aos="zoom-in") Los encuentros con los clientes pueden ser positivos o negativos, dependiendo de cómo se sienta el cliente o cómo perciba el servicio recibido o cualquier encuentro con el sistema. Prieto (2014, p.104). 
 
     .row.justify-content-center.align-items-center.mb-5
       .col-sm-12.col-md-12.col-lg-8
-        .row.bgazulclaro.align-items-center.justify-content-center.mb-4
+        .row.bgazulclaro.align-items-center.justify-content-center.mb-4(data-aos="zoom-in-left")
           .col-lg-3
             .row.align-items-center.justify-content-center
-              .col-lg-5
-                img(src='@/assets/curso/temas/tema8y9/flecha-arriba.png', alt='')
+              .col-3.col-md-2.col-lg-5
+                img.p-1(src='@/assets/curso/temas/tema8y9/flecha-arriba.png', alt='')
           .col-lg-8
             h5.mt-4.mb-4 Momentos de verdad positivos: 
             p.mt-4 Aquellos que satisfacen las expectativas de los clientes y que permiten convertirlos en clientes fieles y leales.
-        .row.bgrosado2.align-items-center.justify-content-center
+        .row.bgrosado2.align-items-center.justify-content-center(data-aos="zoom-in-right")
           .col-lg-3
             .row.align-items-center.justify-content-center
-              .col-lg-5
-                img(src='@/assets/curso/temas/tema8y9/flecha-abajo.png', alt='')
+              .col-3.col-md-2.col-lg-5
+                img.p-1(src='@/assets/curso/temas/tema8y9/flecha-abajo.png', alt='')
           .col-lg-8
             h5.mt-4.mb-4 Momentos de verdad negativos: 
             p.mt-4 Aquellos momentos que no satisfacen las expectativas de los clientes en su encuentro con el sistema. Los empleados pueden atenderlos muy bien, pero pueden sentirse contrariados con alguna parte del servicio técnico o con la exhibición u otro elemento. 

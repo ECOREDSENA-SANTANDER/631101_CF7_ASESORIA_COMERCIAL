@@ -8,7 +8,7 @@
       h1 Fidelización al cliente
 
     .row.justify-content-center.align-items-center
-      .col-sm-12.col-md-12.col-lg-8
+      .col-sm-12.col-md-12.col-lg-8(data-aos="zoom-in")
         p Para tener un cliente que siempre esté comprando o consumiendo los productos o servicios de la empresa, esta debe seguir el proceso de atraer y captar para luego fidelizar a los clientes, esta fidelización busca ante todo mantener relaciones duraderas con los clientes. 
         p Promove (2012) indica que la fidelización:
         .row.bgazulclaro.p-4.mb-4
@@ -19,12 +19,12 @@
           .col-1.mt-5
             i.fas.fa-quote-right.comillamorada
         p.mt-0 Tanto la fidelización de los  clientes como el asesor comercial son importantes para la empresa porque buscan que el cliente siga comprando y aumentando sus ventas. Tenga en cuenta que las acciones de fidelización se aplican a los clientes que vienen comprando y están satisfechos, a los demás se les recomienda otras acciones.
-      .col-12.col-md-8.col-lg-4
+      .col-12.col-md-8.col-lg-4(data-aos="fade-right")
         img(src='@/assets/curso/temas/tema4y5/img1.png', alt='')
 
     p.mb-5 De acuerdo con Promove (2019) para que una empresa tenga clientes fieles se debe tener en cuenta lo siguiente:
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in")
       .col-lg-6
         ImagenInfografica.color-acento-botones
           template(v-slot:imagen)

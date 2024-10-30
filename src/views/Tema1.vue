@@ -40,7 +40,7 @@
         
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-md-8.col-lg-4.p-0.mb-0.mt-0
-        img(src='@/assets/curso/temas/tema1/img1.png', alt='')
+        img(data-aos="fade-right")(src='@/assets/curso/temas/tema1/img1.png', alt='')
       .col-sm-12.col-md-12.col-lg-6
         .row.bgazulclaro
           p.p-4.mt-5.mb-4 Con base en los conceptos anteriores se puede expresar que el servicio es el conjunto de actividades que se realizan para satisfacer las necesidades de los clientes, desde que tienen contacto con la empresa hasta finalizar el ciclo del servicio. Es importante anotar que el asesor comercial de manera individual se acerca al cliente teniendo en cuenta sus características, sus necesidades y expectativas; por lo anterior, se debe hacer el seguimiento para identificar no solo esos comportamientos para realizar la ventas sino igualmente en la postventa.
@@ -104,10 +104,10 @@
         p.mb-2 Las estructuras organizacionales orientadas al mercado dan importancia a la experiencia del consumidor, a sus empleados de base frente a una estrategia de servicio al cliente, utiliza funciones internas para ayudar a los trabajadores a cumplir con los objetivos de servir a los clientes, compartiendo la responsabilidad que implica alcanzar los resultados del negocio, mientras las estructuras organizacionales orientadas a lo tradicional tienden a operar proyectos enormes que conllevan mucho tiempo de implementación, los empleados al frente de la línea de servicios son los menos importantes, cuando en ellos recae el cara a cara con el cliente.
         p A través de la siguiente figura puede ver la estructura organizacional tradicional respecto a la orientada al mercado.  
       .col-8.col-md-6.col-lg-3
-        img(src='@/assets/curso/temas/tema1/img3.png', alt='')
+        img(data-aos="fade-left")(src='@/assets/curso/temas/tema1/img3.png', alt='')
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-lg-6
+      .col-lg-6(data-aos="fade-right")
         .titulo-sexto.color-secundario.mb-4
           h5 Figura 1. 
           | Estructura organizacional tradicional vs. orientada al mercado
@@ -120,7 +120,7 @@
     p.mb-4 Para la prestación del servicio que requiere cualquier actividad se debe tener en cuenta unas características, que el vendedor debe recordar. De acuerdo con la página #[em web] Beetrack se señala algunas como:
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-6
+      .col-lg-6(data-aos="fade-left")
         ImagenInfografica.color-acento-botones
           template(v-slot:imagen)
             figure
@@ -158,7 +158,7 @@
           .tarjeta.color-secundario--borde.p-4(titulo="Son heterogéneos")
             p.ps-4 Estos servicios no se pueden almacenar, ni llevarlos por partes, todos deben consumirse.
       .col-8.col-md-7.col-lg-3
-        img.mt-2(src='@/assets/curso/temas/tema1/img4.png', alt='')
+        img.mt-2(data-aos="fade-right")(src='@/assets/curso/temas/tema1/img4.png', alt='')
 
     separador
     #t_1_2.titulo-segundo.mb-4

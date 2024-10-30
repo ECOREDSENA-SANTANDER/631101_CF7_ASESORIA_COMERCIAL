@@ -7,11 +7,11 @@
         span 6
       h1 Ciclo del servicio
 
-    p Es una herramienta secuencial de pasos lógicos en la que existen interacciones que muestran el inicio del proceso de atención al cliente, puntos de contacto denominados momentos de verdad y el final del ciclo. Su objetivo se enfoca en el mejoramiento continuo para satisfacer las expectativas del cliente frente al producto o servicio. Este es un mapa de los momentos de verdad, desde el principio hasta que el cliente abandona el establecimiento.
-    p.mb-4 En la siguiente figura se presenta el ciclo del servicio.
+    p(data-aos="zoom-in") Es una herramienta secuencial de pasos lógicos en la que existen interacciones que muestran el inicio del proceso de atención al cliente, puntos de contacto denominados momentos de verdad y el final del ciclo. Su objetivo se enfoca en el mejoramiento continuo para satisfacer las expectativas del cliente frente al producto o servicio. Este es un mapa de los momentos de verdad, desde el principio hasta que el cliente abandona el establecimiento.
+    p.mb-4(data-aos="zoom-in") En la siguiente figura se presenta el ciclo del servicio.
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-12.col-md-12.col-lg-6
+      .col-12.col-md-12.col-lg-6(data-aos="zoom-in")
         .titulo-sexto.color-secundario.mb-4
           h5 Figura 3. 
           | El ciclo del servicio
@@ -20,11 +20,11 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-md-8.col-lg-4
-        img(src='@/assets/curso/temas/tema6y7/img1.png', alt='')
+        img(src='@/assets/curso/temas/tema6y7/img1.png', alt='')(data-aos="fade-right")
       .col-sm-12.col-md-12.col-lg-8
         p.mb-4 Esto inicia desde que el cliente muestra interés y se genera comunicación entre el cliente y la empresa, en el que se presenta una serie de actividades hasta llegar al final del proceso que el cliente considera y vuelve nuevamente a iniciarse. Para su elaboración se relaciona un círculo, y de forma secuencial, se presenta cada uno de los ciclos denominados momentos de verdad, estos deben ser numerados y se registran teniendo en cuenta el punto de vista del cliente; motivo por el cual se presentan de forma positiva o negativa de acuerdo con la percepción y sensación de él.
         p Los ciclos de servicio permiten a la empresa:
-        .row.mt-4.bgazulclaro
+        .row.mt-4.bgazulclaro(data-aos="zoom-in")
           ul.lista-ul--color.fa-al.ps-5.mb-4.mt-4
             li.mb-0 
               i.fas.fa-check-circle
@@ -42,7 +42,7 @@
     p.mb-4 Prieto (2014) sugiere los siguientes pasos:
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-sm-12.col-md-12.col-lg-9
+      .col-sm-12.col-md-12.col-lg-9(data-aos="zoom-in")
         TabsA.color-acento-botones
           .tarjeta.color-secundario--borde.p-4(titulo="Atender al cliente")
             p.ps-4 Ser una persona amable y empática, se recomienda que siga un protocolo de bienvenida y comportamiento corporal.
@@ -53,11 +53,11 @@
           .tarjeta.color-secundario--borde.p-4(titulo="Monitorear la satisfacción del cliente")
             p.ps-4 Asegurarse de la satisfacción del cliente y despedirlo con protocolos.
       .col-8.col-md-7.col-lg-3
-        img.mt-2(src='@/assets/curso/temas/tema6y7/img2.png', alt='')
+        img.mt-2(src='@/assets/curso/temas/tema6y7/img2.png', alt='')(data-aos="fade-left")
 
     p.mb-4 Dicho eso, el foco vital de las organizaciones debe ser crear relaciones saludables con los clientes para conquistarlos en todos los puntos de contacto, es por ello que en el ciclo de vida del servicio se reconoce su importancia, características, las diferentes etapas que posee, así como los diferentes indicadores y métricas que permiten hacer una correcta medición del servicio, tal y como se presenta a continuación:
 
-    .row
+    .row(data-aos="zoom-in")
       .tarjeta.tarjeta--moradaclara.p-4
         LineaTiempoC.color-acento-contenido(text-small)
           .row(titulo="Importancia").align-items-center.justify-content-center

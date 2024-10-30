@@ -12,13 +12,13 @@
         .titulo-sexto.color-secundario.mb-4
           h5 Figura 2. 
           | Relaciones con clientes
-        img(src='@/assets/curso/temas/tema2/fig1.png', alt='La imagen simula un panal de abejas, y en diferentes celdas se lee: Precios, distribuidores, comerciantes, clientes, cadena de valor.')
+        img(data-aos="fade-right")(src='@/assets/curso/temas/tema2/fig1.png', alt='La imagen simula un panal de abejas, y en diferentes celdas se lee: Precios, distribuidores, comerciantes, clientes, cadena de valor.')
       .col-sm-12.col-md-12.col-lg-8
         p.mb-4 La fidelización se debe entender cómo una acción de la empresa para lograr conseguir relaciones con los clientes que generen acciones redituables y continuadas con la empresa a lo largo del tiempo. 
-        .row.bgavatarazulclaro
+        .row.bgavatarazulclaro(data-aos="fade-left")
           p.mt-5.mb-5.ps-5 #[b Por parte de la empresa], para construir relaciones con los clientes se debe montar una estrategia conducente a que los proveedores, los clientes, distribuidores, comerciantes y públicos interesados mantengan intercambios de interés, precios y de calidad a lo largo del tiempo en la cadena de valor. 
         .row.bgblanco.mt-3
-        .row.bgrosado
+        .row.bgrosado(data-aos="fade-left")
           p.mt-5.mb-5.ps-5 #[b Por parte del vendedor], él debe estar en sintonía con los requerimientos de la empresa, ocupándose de resolver los problemas y las situaciones que se le presenten al cliente, puesto que esto representa valor económico y crecimiento personal para el vendedor.
 
     p.mb-4 En la actualidad existen herramientas que contribuyen al mejoramiento de las relaciones con el cliente, lo que se denomina gestión de las relaciones, esta estrategia combina la tecnología de la información con la cultura organizacional, en la cual el principal objetivo es mantener excelentes relaciones y satisfacer las necesidades de los clientes. 
@@ -90,8 +90,8 @@
     p.mb-5 Para la construcción del manual de servicio al cliente se debe tener en cuenta los siguientes elementos:
 
     .row.align-items-center.justify-content-center.mb-5
-        .col-8.col-md-8.col-lg-4
-          img(src='@/assets/curso/temas/tema2/img2.png', alt='')
+        .col-12.col-md-8.col-lg-4
+          img(src='@/assets/curso/temas/tema2/img2.png', alt='')(data-aos="fade-left")
         .col-sm-12.col-md-12.col-lg-8.mb-0.mt-4
           .row.bgavatarazulclaro.ps-4.mb-0.p-3
             ol.lista-ol--cuadro.lista-ol--separador.fa-ol.ps-3
@@ -147,8 +147,8 @@
             li.mb-0 
               i.fas.fa-check-circle
               span.mb-0 Dar despedida en forma cortés, agradecer la compra e invitarlo a regresar.
-      .col-8.col-md-8.col-lg-4
-        img(src='@/assets/curso/temas/tema2/img3.png', alt='')
+      .col-12.col-md-8.col-lg-4
+        img.mt-1(src='@/assets/curso/temas/tema2/img3.png', alt='')(data-aos="fade-right")
         
         
 

@@ -7,7 +7,7 @@
         span 7
       h1 Triángulo del servicio
 
-    .row.justify-content-center.align-items-center
+    .row.justify-content-center.align-items-center(data-aos="zoom-in")
       .col-sm-12.col-md-12.col-lg-10
         .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
@@ -22,18 +22,18 @@
 
     .row.justify-content-center.align-items-center
       .col-sm-12.col-md-12.col-lg-8
-        .cajon.color-acento-contenido.p-4.mb-4
+        .cajon.color-acento-contenido.p-4.mb-4(data-aos="fade-right")
           p.p-4 El triángulo del servicio se construye a partir de las relaciones que tiene la empresa con los clientes cada vez que el servicio es solicitado, por tanto, la principal característica son los momentos de verdad. Son estos momentos los que la empresa tiene en cuenta para lograr la experiencia de servicio y esa estructura está diseñada para tal fin. 
         p Otras características son los requerimientos, procesos y procedimiento de cada momento de verdad, planear cada uno de esos encuentros con el objeto de que salga bien cada encuentro.
       .col-10.col-md-8.col-lg-4
-        img(src='@/assets/curso/temas/tema6y7/img4.png', alt='')
+        img(src='@/assets/curso/temas/tema6y7/img4.png', alt='')(data-aos="fade-left")
 
     separador
     #t_7_2.titulo-segundo.mb-4
       h2 7.2. Estructura del triángulo del servicio
     p.mb-4 Estos tres elementos componen la estructura del triángulo del servicio e interactúan con el cliente para mantener un nivel de percepción alto en el cliente.
 
-    .row.align-items-center.justify-content-center.mb-5
+    .row.align-items-center.justify-content-center.mb-5(data-aos="zoom-in")
       .col-lg-4.col-md-12.col-sm-12
         img(src='@/assets/curso/temas/tema6y7/img5.png', alt='')
       .col-lg-8.col-md-12.col-sm-12
@@ -51,7 +51,7 @@
               .col-lg-12
                 p.mb-0 Un personal con orientación de servicio, empático y debidamente entrenado al servicio de atender los requerimientos del cliente.
 
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-sm-12.col-md-12.col-lg-6
         .titulo-sexto.color-secundario.mb-4
           h5 Figura 4. 

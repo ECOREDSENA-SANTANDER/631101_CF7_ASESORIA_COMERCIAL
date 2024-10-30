@@ -9,10 +9,10 @@
 
     .row.justify-content-center.align-items-center
       .col-12.col-md-8.col-lg-4
-        img(src='@/assets/curso/temas/tema4y5/img2.png', alt='')
+        img(src='@/assets/curso/temas/tema4y5/img2.png', alt='')(data-aos="fade-right")
       .col-sm-12.col-md-12.col-lg-8
         p En la prestación del servicio por parte de la empresa y en la atención al cliente por parte de los empleados a parte de recibir al cliente y causarle una experiencia satisfactoria que haga que regrese, está conocer en qué momento de esos encuentros el cliente siente insatisfacción hacia el establecimiento, marca u otra causa que lo coloque en posición de perderlo. Tenga en cuenta que la prestación del servicio puede estar acompañada de la calidad del producto, de la capacitación de los empleados, de la empresa enfocada en el servicio, por ello, los clientes siempre están dispuestos a expresar su inconformidad.
-        .cajon.color-acento-contenido.p-4
+        .cajon.color-acento-contenido.p-4(data-aos="fade-left")
           p.p-3 Por tanto, la razón principal de alinear los esfuerzos y recursos para identificar inconformidades o hallazgos es la gestión de reclamos, quejas y peticiones de manera eficiente, que haga sentir al cliente que está siendo comprendido y atendido.
 
     separador
@@ -22,8 +22,8 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-md-8.col-lg-4
-        img(src='@/assets/curso/temas/tema4y5/img3.png', alt='')
-      .col-sm-12.col-md-12.col-lg-8
+        img(src='@/assets/curso/temas/tema4y5/img3.png', alt='')(data-aos="fade-left")
+      .col-sm-12.col-md-12.col-lg-8(data-aos="zoom-in")
         TabsC.color-acento-contenido
           .py-3.py-md-4(titulo="P")
             .row.align-items-center.justify-content-center
@@ -60,7 +60,7 @@
 
     .row.justify-content-center.align-items-center.mb-5
       .col-10.col-md-8.col-lg-4
-        img(src='@/assets/curso/temas/tema4y5/img4.png', alt='')
+        img(src='@/assets/curso/temas/tema4y5/img4.png', alt='')(data-aos="fade-right")
       .col-sm-12.col-md-12.col-lg-8
         p.mb-4 La empresa y el asesor comercial deben tener siempre presente que el servicio es lo que los clientes piensan que es, por tanto, las acciones que se tomen deben ir dirigidas a llenar esas expectativas. 
         p.mb-4 Algunas acciones de mejora que las empresas pueden implementar para la prestación del servicio son:
