@@ -42,7 +42,7 @@
     p.mb-4 Prieto (2014) sugiere los siguientes pasos:
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-sm-12.col-md-12.col-lg-9(data-aos="zoom-in")
+      .col-sm-12.col-md-12.col-lg-10(data-aos="zoom-in")
         TabsA.color-acento-botones
           .tarjeta.color-secundario--borde.p-4(titulo="Atender al cliente")
             p.ps-4 Ser una persona amable y empática, se recomienda que siga un protocolo de bienvenida y comportamiento corporal.
@@ -50,9 +50,9 @@
             p.ps-4 Buscar identificar su necesidad y dar respuestas concretas.
           .tarjeta.color-secundario--borde.p-4(titulo="Satisfacer la necesidad")
             p.ps-4 Buscar la solución y extender o complementar la solución.
-          .tarjeta.color-secundario--borde.p-4(titulo="Monitorear la satisfacción del cliente")
+          .tarjeta.color-secundario--borde.p-4(titulo="Monitorear la satisfacción")
             p.ps-4 Asegurarse de la satisfacción del cliente y despedirlo con protocolos.
-      .col-8.col-md-7.col-lg-3
+      .col-8.col-md-7.col-lg-2
         img.mt-2(src='@/assets/curso/temas/tema6y7/img2.png', alt='')(data-aos="fade-left")
 
     p.mb-4 Dicho eso, el foco vital de las organizaciones debe ser crear relaciones saludables con los clientes para conquistarlos en todos los puntos de contacto, es por ello que en el ciclo de vida del servicio se reconoce su importancia, características, las diferentes etapas que posee, así como los diferentes indicadores y métricas que permiten hacer una correcta medición del servicio, tal y como se presenta a continuación:

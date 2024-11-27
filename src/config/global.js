@@ -1,6 +1,6 @@
 export default {
   global: {
-    componenteFormativo: 'Servicio al cliente',
+    componenteFormativo: 'Atención al cliente',
     descripcionCurso:
       'El servicio y atención al cliente es una actividad importante para el asesor comercial, con herramientas y técnicas identifica situaciones que le permiten tomar acciones de mejora que logran relaciones duraderas con el cliente. El vendedor conocerá cómo define la empresa el triángulo del servicio, los momentos de verdad, el ciclo del servicio al cliente y cómo medir la trazabilidad de servicio.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
@@ -187,7 +187,7 @@ export default {
       tema: 'Atención al cliente',
       referencia:
         'Da Silva, D. (2020). Diferencia entre atención al cliente y servicio al cliente. ',
-      tipo: 'Otro (página web)',
+      tipo: 'Página web',
       link:
         'https://www.zendesk.com.mx/blog/diferencia-servicio-atencion-al-cliente/ ',
     },
@@ -202,7 +202,7 @@ export default {
       tema: 'Características de la atención al cliente',
       referencia:
         'Beetrack. (sf). Las características de un buen servicio al cliente.',
-      tipo: 'Otro (página web)',
+      tipo: 'Página web',
       link:
         'https://www.beetrack.com/es/blog/como-dar-buen-servicio-al-cliente-sector-logistico',
     },
@@ -210,14 +210,14 @@ export default {
       tema: 'Ciclo de servicio',
       referencia:
         'Da Silva, D. (2020). Protocolo de atención al cliente: 4 beneficios para empresas.',
-      tipo: 'Otro (página web)',
+      tipo: 'Página web',
       link: 'https://www.zendesk.com.mx/blog/protocolo-de-atencion-al-cliente/',
     },
     {
       tema: 'Trazabilidad de servicio al cliente',
       referencia:
         'Geinfor. (sf). Cómo implementar un sistema de trazabilidad en tu empresa.',
-      tipo: 'Otro (página web)',
+      tipo: 'Página web',
       link:
         'https://geinfor.com/business/como-implementar-un-sistema-de-trazabilidad-en-tu-empresa/',
     },
@@ -225,7 +225,7 @@ export default {
       tema: 'Triángulo del servicio',
       referencia:
         'Cano, Y. (s.f). Ceiba. Triángulo del servicio: una mirada estratégica para los negocios. ',
-      tipo: 'Otro (página web)',
+      tipo: 'Página web',
       link: 'https://www.ceiba.com.co/triangulo-del-servicio/  ',
     },
   ],
@@ -233,7 +233,7 @@ export default {
     {
       termino: 'Atención al cliente',
       significado:
-        '“La atención al cliente se centra en la resolución de problemas, el manejo de quejas y el soporte técnico” (Da Silva, 2020).',
+        '“la atención al cliente se centra en la resolución de problemas, el manejo de quejas y el soporte técnico” (Da Silva, 2020).',
     },
     {
       termino: 'Intangible',
@@ -396,17 +396,12 @@ export default {
         },
         {
           nombre: 'Lucenith Pinilla Moreno',
-          cargo: 'Desarrollador <i>full-stack</i> Junior',
+          cargo: 'Desarrolladora <i>full-stack</i> Junior',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'María Alejandra Vera Briceño',
-          cargo: 'Animador y producción audiovisual',
-          centro: 'Centro Agroturístico - Regional Santander',
-        },
-        {
-          nombre: 'Lucenith Pinilla Moreno',
-          cargo: 'Actividad didáctica',
+          cargo: 'Animadora y producción audiovisual',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
@@ -415,8 +410,8 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Falta',
-          cargo: 'Validador de Recursos Educativos Digitales',
+          nombre: 'Yineth González Quintero',
+          cargo: 'Validadora de recursos educativos digitales',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {

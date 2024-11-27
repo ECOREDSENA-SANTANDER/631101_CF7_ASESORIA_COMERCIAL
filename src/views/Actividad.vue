@@ -36,7 +36,7 @@ export default {
         {
           id: 2,
           texto:
-            'El servicio visible para el cliente es aquel que no está a la vista, pero que es necesario para producir el servicio y entregarlo al servicio invisible.?',
+            'El servicio visible para el cliente es aquel que no está a la vista, pero que es necesario para producir el servicio y entregarlo al servicio invisible?',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
@@ -120,7 +120,7 @@ export default {
         {
           id: 8,
           texto:
-            'Un momento de verdad es cada instante en que un cliente toma contacto con la persona o sistema que da el servicio',
+            'Un momento de verdad es cada instante en que un cliente toma contacto con la persona o sistema que da el servicio.',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [

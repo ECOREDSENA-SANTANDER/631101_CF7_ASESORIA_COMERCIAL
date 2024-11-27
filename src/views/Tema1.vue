@@ -111,7 +111,7 @@
         .titulo-sexto.color-secundario.mb-4
           h5 Figura 1. 
           | Estructura organizacional tradicional vs. orientada al mercado
-        img(src='@/assets/curso/temas/tema1/fig1.png', alt='La figura presenta dos pirámides, en la primera la base es el cliente, seguido de los empleados de servicio al cliente, la gerencia media, y en la punta superior se encuentra el CEO. La segunda pirámide está invertida y en la punta, en la parte de abajo, se encuentra el CEO, seguido de la gerencia media, luego los empleados de servicio al cliente y por Ultimo y más grande los clientes.')
+        img(src='@/assets/curso/temas/tema1/fig1.png', alt='La figura presenta dos pirámides, en la primera la base es el cliente, seguido de los empleados de servicio al cliente, la gerencia media, y en la punta superior se encuentra el CEO. La segunda pirámide está invertida y en la punta, en la parte de abajo, se encuentra el CEO, seguido de la gerencia media, luego los empleados de servicio al cliente y por último y más grande los clientes.')
         figcaption.text-center Nota. Adaptada de Albrecht (2006).
 
     separador
@@ -133,7 +133,7 @@
             p.mt-4 El solo deseo de atender bien a la persona no es suficiente, la empresa debe contar de manera organizada para hacer efectiva las PQR que realicen los clientes.
           .tarjeta.bgpcmorada.text-white.p-3(x="58%" y="23%" numero="3")
             .h5.mt-4 Anticiparse a los posibles problemas
-            p.mt-4 El vendedor debe ser proactivo, adelantarse a situaciones para dar solución antes que el cliente lo detecte., por ejemplo, si un producto que se vendió tiene fallas, recogerlo cuanto antes.
+            p.mt-4 El vendedor debe ser proactivo, adelantarse a situaciones para dar solución antes que el cliente lo detecte, por ejemplo, si un producto que se vendió tiene fallas, recogerlo cuanto antes.
           .tarjeta.bgpcmorada.text-white.p-3(x="43%" y="50%" numero="4")
             .h5.mt-4 Comunicación clara, fluida y concisa
             p.mt-4 El servicio ayuda a la empresa y el vendedor a tener una relación duradera y rentable.
@@ -150,12 +150,12 @@
       .col-sm-12.col-md-12.col-lg-9
         TabsA.color-acento-botones
           .tarjeta.color-secundario--borde.p-4(titulo="Son intangibles")
-            p.ps-4 El vendedor actúa de manera mecánica, no permite la flexibilidad ni el manejo de la presentación.
+            p.ps-4 Los servicios son intangibles, estos no se pueden tocar, oler, no tienen acceso a la propiedad, no se pueden cargar, ni llevar.
           .tarjeta.color-secundario--borde.p-4(titulo="Son indivisibles")
             p.ps-4 Son los servicios que se le prestan a todos por igual, independientemente de lo que haya pagado.
           .tarjeta.color-secundario--borde.p-4(titulo="Son heterogéneos")
             p.ps-4 Estos servicios son muy diversos y variados, raramente coinciden entre sí y usualmente se prestan muchas veces con relación al cliente.
-          .tarjeta.color-secundario--borde.p-4(titulo="Son heterogéneos")
+          .tarjeta.color-secundario--borde.p-4(titulo="No se pueden conservar")
             p.ps-4 Estos servicios no se pueden almacenar, ni llevarlos por partes, todos deben consumirse.
       .col-8.col-md-7.col-lg-3
         img.mt-2(data-aos="fade-right")(src='@/assets/curso/temas/tema1/img4.png', alt='')

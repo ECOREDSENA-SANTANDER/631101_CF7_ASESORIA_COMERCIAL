@@ -126,7 +126,7 @@
             li.mb-0 
               i.fas.fa-check-circle
               span.mb-0 #[b Saludo de bienvenida para el cliente.]
-            p.ps-4 Buenos días (tardes, noche), mi nombre es Alba en qué puedo ayudarlo. (Acompañado de un rostro amable).
+            p.ps-4 Buenos días (tardes, noche), mi nombre es Alba, en qué puedo ayudarlo. (Acompañado de un rostro amable).
         .row.bgrosado.mt-3
           ul.lista-ul--color.fa-al.ps-5.mb-0.mt-4.mb-4
             li.mb-0 

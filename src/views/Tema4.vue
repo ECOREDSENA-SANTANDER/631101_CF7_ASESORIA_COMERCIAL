@@ -15,7 +15,7 @@
           .col-1
             i.fas.fa-quote-left.comillamorada
           .col-9
-            h4.mt-4 se entiende como una acción dirigida a conseguir que los clientes mantengan relaciones estables y continuadas con la empresa a largo tiempo” (p. 19).
+            p.mt-4 se entiende como una acción dirigida a conseguir que los clientes mantengan relaciones estables y continuadas con la empresa a largo tiempo” (p. 19).
           .col-1.mt-5
             i.fas.fa-quote-right.comillamorada
         p.mt-0 Tanto la fidelización de los  clientes como el asesor comercial son importantes para la empresa porque buscan que el cliente siga comprando y aumentando sus ventas. Tenga en cuenta que las acciones de fidelización se aplican a los clientes que vienen comprando y están satisfechos, a los demás se les recomienda otras acciones.
@@ -46,7 +46,7 @@
             p.mt-4 Cupones descuento, donde el usuario puede recortar un cupón y obtendrá una rebaja en el precio de algún producto o servicio del establecimiento.
           .tarjeta.bgpcmorada.text-white.p-3(x="11%" y="67%" numero="8")
             p.mt-4 #[b Programa de puntos]. Tarjeta de puntos redimibles en productos.
-          .tarjeta.bgpcmorada.text-white.p-3(x="11%" y="67%" numero="9")
+          .tarjeta.bgpcmorada.text-white.p-3(x="30%" y="65%" numero="9")
             p.mt-4 #[b #[em Newsletter]]. Comunicación personalizada a sus correos electrónicos.
           .tarjeta.bgpcmorada.text-white.p-3(x="30%" y="13%" numero="10")
             p.mt-4 #[b Regalos.] Por cumplir cuotas de compra en un periodo de tiempo.

@@ -1,1 +1,1 @@
-module.exports = 'Servicio al cliente'
+module.exports = 'Atención al cliente'
