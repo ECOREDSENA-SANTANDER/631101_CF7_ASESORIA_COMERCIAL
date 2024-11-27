@@ -75,7 +75,7 @@
                 span.mb-0 Correo electrónico.
               li.mb-0 
                 i.fas.fa-check-circle
-                span.mb-0 Páginas #[em web].
+                span.mb-0 Páginas web.
           .col-lg-8.mb-5.mt-5
             ul.lista-ul--color.fa-al
               li.mb-0 

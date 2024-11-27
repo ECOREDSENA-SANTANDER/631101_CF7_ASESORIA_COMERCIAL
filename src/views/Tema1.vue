@@ -117,7 +117,7 @@
     separador
     #t_1_1.titulo-segundo.mb-4
       h2 1.1. Características de la atención al cliente
-    p.mb-4 Para la prestación del servicio que requiere cualquier actividad se debe tener en cuenta unas características, que el vendedor debe recordar. De acuerdo con la página #[em web] Beetrack se señala algunas como:
+    p.mb-4 Para la prestación del servicio que requiere cualquier actividad se debe tener en cuenta unas características, que el vendedor debe recordar. De acuerdo con la página web Beetrack se señala algunas como:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-6(data-aos="fade-left")
