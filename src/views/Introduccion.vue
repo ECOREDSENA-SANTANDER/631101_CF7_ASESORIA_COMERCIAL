@@ -9,7 +9,7 @@
           i.fas.fa-info
       h1 Introducción
     
-    p.mb-4 A continuación, podrá consultar el video en el que se presenta la introducción al curso “Asesoría comercial”.
+    p.mb-4 A continuación, podrá consultar el video en el que se presenta la introducción y contextualización al componente formativo, donde se exponen los conceptos y temas abordados:
 
     .row.justify-content-center.align-items-center.mb-5
       .col-sm-12.col-md-12.col-lg-10
