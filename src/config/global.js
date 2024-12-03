@@ -359,7 +359,7 @@ export default {
         },
         {
           nombre: 'Zenith Chinchilla Ruedas',
-          cargo: 'Diseñador instruccional',
+          cargo: 'Diseñadora instruccional',
           centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
         },
         {
