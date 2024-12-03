@@ -147,7 +147,7 @@
     p.mb-4 Estas características pueden ser otras asociadas a la actividad que desarrolla la empresa, con seguridad una empresa de servicios médicos, logística o comercial tiene diferentes estructuras de servicio; sin embargo, la prestación del servicio cumple las siguientes características:
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-sm-12.col-md-12.col-lg-9
+      .col-sm-12.col-md-12.col-lg-12
         TabsA.color-acento-botones
           .tarjeta.color-secundario--borde.p-4(titulo="Son intangibles")
             p.ps-4 Los servicios son intangibles, estos no se pueden tocar, oler, no tienen acceso a la propiedad, no se pueden cargar, ni llevar.
@@ -157,8 +157,6 @@
             p.ps-4 Estos servicios son muy diversos y variados, raramente coinciden entre sí y usualmente se prestan muchas veces con relación al cliente.
           .tarjeta.color-secundario--borde.p-4(titulo="No se pueden conservar")
             p.ps-4 Estos servicios no se pueden almacenar, ni llevarlos por partes, todos deben consumirse.
-      .col-8.col-md-7.col-lg-3
-        img.mt-2(data-aos="fade-right")(src='@/assets/curso/temas/tema1/img4.png', alt='')
 
     separador
     #t_1_2.titulo-segundo.mb-4

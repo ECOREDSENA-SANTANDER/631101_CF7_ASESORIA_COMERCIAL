@@ -15,7 +15,7 @@
           .col-1
             i.fas.fa-quote-left.comillamorada
           .col-9
-            p.mt-4 se entiende como una acción dirigida a conseguir que los clientes mantengan relaciones estables y continuadas con la empresa a largo tiempo” (p. 19).
+            p.mt-4 Se entiende como una acción dirigida a conseguir que los clientes mantengan relaciones estables y continuadas con la empresa a largo tiempo” (p. 19).
           .col-1.mt-5
             i.fas.fa-quote-right.comillamorada
         p.mt-0 Tanto la fidelización de los  clientes como el asesor comercial son importantes para la empresa porque buscan que el cliente siga comprando y aumentando sus ventas. Tenga en cuenta que las acciones de fidelización se aplican a los clientes que vienen comprando y están satisfechos, a los demás se les recomienda otras acciones.
