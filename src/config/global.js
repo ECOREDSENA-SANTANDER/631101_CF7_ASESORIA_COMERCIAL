@@ -68,7 +68,7 @@ export default {
       {
         nombreRuta: 'tema5',
         numero: '5',
-        titulo: 'Hallazgos',
+        titulo: 'Hallazgos en la atención al cliente',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -415,7 +415,7 @@ export default {
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
-          nombre: 'Falta',
+          nombre: 'Andrea Ardila Chaparro',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro: 'Centro Agroturístico - Regional Santander',
         },
