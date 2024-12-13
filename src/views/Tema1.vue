@@ -43,7 +43,7 @@
         img(data-aos="fade-right")(src='@/assets/curso/temas/tema1/img1.png', alt='')
       .col-sm-12.col-md-12.col-lg-6
         .row.bgazulclaro
-          p.p-4.mt-5.mb-4 Con base en los conceptos anteriores se puede expresar que el servicio es el conjunto de actividades que se realizan para satisfacer las necesidades de los clientes, desde que tienen contacto con la empresa hasta finalizar el ciclo del servicio. Es importante anotar que el asesor comercial de manera individual se acerca al cliente teniendo en cuenta sus características, sus necesidades y expectativas; por lo anterior, se debe hacer el seguimiento para identificar no solo esos comportamientos para realizar la ventas sino igualmente en la postventa.
+          p.p-4.mt-5.mb-4 Con base en los conceptos anteriores se puede expresar que el servicio es el conjunto de actividades que se realizan para satisfacer las necesidades de los clientes, desde que tienen contacto con la empresa hasta finalizar el ciclo del servicio. Es importante anotar que el asesor comercial de manera individual se acerca al cliente teniendo en cuenta sus características, sus necesidades y expectativas; por lo anterior, se debe hacer el seguimiento para identificar no solo esos comportamientos para realizar las ventas sino igualmente en la postventa.
 
     .subt.mb-4(data-aos="fade-right")
       .d-flex.align-items-center.mb-1
@@ -96,7 +96,7 @@
             .tarjeta-slide__contenido.p-4.p-xl-5
               img.p-5(src='@/assets/curso/temas/tema1/ico1-4.png', alt='')
               h5.text-center Otros Clientes
-              p.text-center Son quienes prestan el servicio directamente al cliente.
+              p.text-center Los clientes que reciben el mismo servicio y pueden influir de manera positiva o negativa en su uso futuro.
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/tar1-4.png')})`}")
 
     .row.justify-content-center.align-items-center.mb-4

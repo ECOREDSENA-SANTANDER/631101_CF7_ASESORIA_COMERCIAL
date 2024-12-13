@@ -92,7 +92,7 @@ export default {
         {
           id: 6,
           texto:
-            'Solo el asesor comercial es importantes para la empresa porque busca que el cliente siga comprando y aumentando sus ventas.',
+            'Solo el asesor comercial es importante para la empresa porque busca que el cliente siga comprando y aumentando sus ventas.',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [

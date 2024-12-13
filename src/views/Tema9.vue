@@ -86,7 +86,7 @@
                 span.mb-0 WhatsApp.
               li.mb-0 
                 i.fas.fa-check-circle
-                span.mb-0 Redes sociales: Facebook, Twitter, Instagram, entre otras.
+                span.mb-0 Redes sociales: Facebook, X, Instagram, entre otras.
         p.mt-5 Cabe resaltar que la tecnología ha tenido un gran avance con el paso de los años y, actualmente, los empresarios tienen diferentes formas de comunicarse con los clientes de una forma ágil, personalizada y oportuna.
       .col-12.col-md-10.col-lg-4
         img(src='@/assets/curso/temas/tema8y9/img4.png', alt='')(data-aos="fade-left")
