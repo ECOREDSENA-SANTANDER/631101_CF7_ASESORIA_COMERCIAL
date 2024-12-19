@@ -7,7 +7,7 @@
         span 1
       h1 Atención al cliente
     
-    p.mb-4 En la siguiente presentación encontrará conceptos clave en la atención al cliente.
+    p.mb-4 A continuación encontrará conceptos clave en la atención al cliente.
 
     .row.justify-content-center.align-items-center.mb-5
       .col-lg-12
